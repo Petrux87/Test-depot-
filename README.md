@@ -1,4 +1,4 @@
 Ligne ajoutée pour test Git
 Ligne ajoutée pour test git
-modif depuis branche feature
+modif Github conflit 
 Modification fait depuis Github
